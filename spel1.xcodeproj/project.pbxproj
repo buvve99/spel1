@@ -16,6 +16,7 @@
 		7B9AE29C1E4484A10071ACBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE29B1E4484A10071ACBB /* Assets.xcassets */; };
 		7B9AE29F1E4484A10071ACBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE29D1E4484A10071ACBB /* LaunchScreen.storyboard */; };
 		A3A3B2181E4492D600932E16 /* bakgrund.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3B2171E4492D600932E16 /* bakgrund.png */; };
+		A3A3B21A1E44A47D00932E16 /* bakgrundspel.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3B2191E44A47D00932E16 /* bakgrundspel.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7B9AE29E1E4484A10071ACBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B9AE2A01E4484A10071ACBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3A3B2171E4492D600932E16 /* bakgrund.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bakgrund.png; sourceTree = "<group>"; };
+		A3A3B2191E44A47D00932E16 /* bakgrundspel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bakgrundspel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				7B9AE29D1E4484A10071ACBB /* LaunchScreen.storyboard */,
 				7B9AE2A01E4484A10071ACBB /* Info.plist */,
 				A3A3B2171E4492D600932E16 /* bakgrund.png */,
+				A3A3B2191E44A47D00932E16 /* bakgrundspel.png */,
 			);
 			path = spel1;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3A3B21A1E44A47D00932E16 /* bakgrundspel.png in Resources */,
 				7B9AE29A1E4484A10071ACBB /* Main.storyboard in Resources */,
 				7B9AE2911E4484A10071ACBB /* GameScene.sks in Resources */,
 				7B9AE29C1E4484A10071ACBB /* Assets.xcassets in Resources */,
