@@ -15,6 +15,10 @@ class GameScene: SKScene {
     private var spinnyNode : SKShapeNode?
   
     
+    func setUpGame (){
+        
+    }
+    
     override func didMove(to view: SKView) {
         }
         
