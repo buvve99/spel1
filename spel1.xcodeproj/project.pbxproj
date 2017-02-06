@@ -15,6 +15,8 @@
 		7B9AE29A1E4484A10071ACBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE2981E4484A10071ACBB /* Main.storyboard */; };
 		7B9AE29C1E4484A10071ACBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE29B1E4484A10071ACBB /* Assets.xcassets */; };
 		7B9AE29F1E4484A10071ACBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE29D1E4484A10071ACBB /* LaunchScreen.storyboard */; };
+		7B9AE2A71E487C7F0071ACBB /* mario2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE2A61E487C7E0071ACBB /* mario2.png */; };
+		7B9AE2A91E487C8C0071ACBB /* mario1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B9AE2A81E487C8C0071ACBB /* mario1.png */; };
 		A3A3B2181E4492D600932E16 /* bakgrund.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3B2171E4492D600932E16 /* bakgrund.png */; };
 		A3A3B21A1E44A47D00932E16 /* bakgrundspel.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3B2191E44A47D00932E16 /* bakgrundspel.png */; };
 /* End PBXBuildFile section */
@@ -30,6 +32,8 @@
 		7B9AE29B1E4484A10071ACBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B9AE29E1E4484A10071ACBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B9AE2A01E4484A10071ACBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B9AE2A61E487C7E0071ACBB /* mario2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mario2.png; sourceTree = "<group>"; };
+		7B9AE2A81E487C8C0071ACBB /* mario1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mario1.png; path = ../mario1.png; sourceTree = "<group>"; };
 		A3A3B2171E4492D600932E16 /* bakgrund.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bakgrund.png; sourceTree = "<group>"; };
 		A3A3B2191E44A47D00932E16 /* bakgrundspel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bakgrundspel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +79,8 @@
 				7B9AE2A01E4484A10071ACBB /* Info.plist */,
 				A3A3B2171E4492D600932E16 /* bakgrund.png */,
 				A3A3B2191E44A47D00932E16 /* bakgrundspel.png */,
+				7B9AE2A61E487C7E0071ACBB /* mario2.png */,
+				7B9AE2A81E487C8C0071ACBB /* mario1.png */,
 			);
 			path = spel1;
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 				7B9AE2911E4484A10071ACBB /* GameScene.sks in Resources */,
 				7B9AE29C1E4484A10071ACBB /* Assets.xcassets in Resources */,
 				7B9AE29F1E4484A10071ACBB /* LaunchScreen.storyboard in Resources */,
+				7B9AE2A91E487C8C0071ACBB /* mario1.png in Resources */,
 				7B9AE2931E4484A10071ACBB /* Actions.sks in Resources */,
 				A3A3B2181E4492D600932E16 /* bakgrund.png in Resources */,
+				7B9AE2A71E487C7F0071ACBB /* mario2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
